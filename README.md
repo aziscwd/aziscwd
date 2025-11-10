@@ -1,5 +1,8 @@
-## Hi there 👋
+Hi there!
 
+I enjoy exploring programming stuff, and building things—from useful software tools (might be also weird), to web-apps.
+
+I open oppurtunities—like contributing to open source, project collaborate, etc. Get in [touch]() w/me
 <!--
 **aziscwd/aziscwd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
